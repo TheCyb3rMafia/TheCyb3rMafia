@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm SIVARAJ</h1>
-<h3 align="center">A passionate game developer and ethical hacker from India</h3>
+<h3 align="center">A Passionate Game Developer And Ethical Hacker From Kerala , India</h3>
 
 - 🔭 I’m currently working on [SAMRAJYAM](https://samrajyam.in/)
 
