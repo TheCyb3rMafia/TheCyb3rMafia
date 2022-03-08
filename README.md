@@ -1,4 +1,4 @@
-# ALBY-
+# /root/SIVARAJ-
 
 <p align="center">   <strong><a href="https://sivaraj.cf">Official Website</a></strong> 
 <p align="center">   <strong><a href="https://www.instagram.com/_ft.sivaraj/">Instagram</a></strong> 
@@ -61,18 +61,6 @@
 𝗜'𝘃𝗲 𝗕𝗲𝗲𝗻 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴 𝗔𝗯𝗼𝘂𝘁 𝗖𝘆𝗯𝗲𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝗶𝗲𝘀 𝗔𝘁 𝗧𝗵𝗲 𝗔𝗴𝗲 𝗢𝗳 𝟭𝟯.
  <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif">
 
-<p align="center">
-<a href="https://www.instagram.com/_ft.sivaraj/"><img title="Instagram" src="https://media.discordapp.net/attachments/920247009498243093/950675418158075954/unknown.png?width=832&height=111"></a>
-<a href="mailto:sivarajkailas@gmail.com"><img title="MAIL" src="https://media.discordapp.net/attachments/920247009498243093/950675620264837140/unknown.png?width=314&height=103"></a>
-</p>
-<p align="center">
-<a href="https://t.me/sivarajtech"><img title="Telegram" src="https://media.discordapp.net/attachments/920247009498243093/950675898754011156/unknown.png?width=813&height=106"></a>
-</p>
-<p align="center">
-<a href="https://github.com/TheCyb3rMafia"><img title="Github" src="https://media.discordapp.net/attachments/920247009498243093/950676123057004564/unknown.png?width=651&height=105"></a>
- 
-<p align="center">   <strong><a href="https://albinpraveen.github.io/portfolio2">Official Website</a></strong> 
-<p align="center">   <strong><a href="https://tryhackme.com/p/alby">TryHackMe</a></strong> 
  </p>
 
 
