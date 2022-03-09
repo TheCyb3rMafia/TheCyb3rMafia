@@ -3,7 +3,7 @@
 <p align="center">   <strong><a href="https://sivaraj.cf">Official Website</a></strong> 
 <p align="center">   <strong><a href="https://www.instagram.com/_ft.sivaraj/">Instagram</a></strong> 
 <p align="center">
-		<img src="https://media.giphy.com/media/rNHi1ibKKt7sBEVSSe/giphy-downsized-large.gif" width="540" height="216" />
+		<img src="https://media.giphy.com/media/rNHi1ibKKt7sBEVSSe/giphy-downsized-large.gif"/>
 </a>
 </p>
 
