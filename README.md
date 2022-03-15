@@ -3,7 +3,7 @@
 <p align="center">   <strong><a href="https://sivaraj.cf">Official Website</a></strong> 
 <p align="center">   <strong><a href="https://www.instagram.com/_ft.sivaraj/">Instagram</a></strong> 
 <p align="center">
-		<img src="https://media.giphy.com/media/rNHi1ibKKt7sBEVSSe/giphy-downsized-large.gif"/>
+	<p align="center">❤ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 𝐓𝐡𝐞 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐎𝐟 𝐒𝐈𝐕𝐀𝐑𝐀𝐉 </p> 
 </a>
 </p>
 
